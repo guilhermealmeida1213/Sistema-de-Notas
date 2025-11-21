@@ -1,2 +1,2 @@
 # Sistemas-de-Notas
-Esse é o meu primeiro de muitos projetos
+Esse é o meu primeiro projeto de muitos 
